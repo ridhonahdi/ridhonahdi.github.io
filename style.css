@@ -1,27 +1,18 @@
 .jumbotron {
   padding-top: 6rem;
-  background-color: #ffe083;
+  background-color: #d3eca7;
 }
 
 #Project {
-  background-color: #ffe083;
+  background-color: #d3eca7;
 }
 
 section {
   padding-top: 5rem;
 }
 
-.NFT {
-  position: absolute;
-  top: 50%;
-  left: 50%;
-  transform: translate(-50% -50%);
-  max-width: 350;
-  transition: 0.5s;
-}
-
 body {
-  background: #ffffff;
+  background: #c1deae;
   scroll-behavior: smooth;
 }
 
@@ -33,4 +24,23 @@ body {
   width: 25%;
   height: 25%;
   opacity: 0%;
+}
+
+.card1 {
+  width: 100%;
+  height: 100%;
+  margin: 0px 10px;
+  transition: 1s;
+}
+
+.navabar {
+  background-color: #a1b57d;
+}
+
+.btn {
+  background-color: #a1b57d;
+}
+
+.footer {
+  background-color: #a1b57d;
 }
