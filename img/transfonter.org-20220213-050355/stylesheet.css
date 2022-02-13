@@ -1,0 +1,9 @@
+@font-face {
+    font-family: 'Kitto - Personal Use';
+    src: url('Kitto-PersonalUse-Regular.woff2') format('woff2'),
+        url('Kitto-PersonalUse-Regular.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+

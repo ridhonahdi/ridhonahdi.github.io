@@ -14,33 +14,18 @@ section {
 body {
   background: #c1deae;
   scroll-behavior: smooth;
-}
-
-.Proeject:hover::before {
-  width: 0%;
-  height: 0%;
-}
-.Proeject:hover::after {
-  width: 25%;
-  height: 25%;
-  opacity: 0%;
-}
-
-.card1 {
-  width: 100%;
-  height: 100%;
-  margin: 0px 10px;
-  transition: 1s;
-}
-
-.navabar {
-  background-color: #a1b57d;
+  color: #8daf4f;
 }
 
 .btn {
   background-color: #a1b57d;
+  cursor: pointer;
 }
 
-.footer {
-  background-color: #a1b57d;
+.text {
+  color: #d3eca7;
+}
+
+.nev {
+  color: #d3eca7;
 }
